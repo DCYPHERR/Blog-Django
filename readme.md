@@ -2,6 +2,6 @@
 
   User Registration, Authentication, Password Reset
   
-  User Profiles
+  User Profiles, Added customization
   
   Pagination 
